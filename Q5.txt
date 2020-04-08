@@ -1,0 +1,230 @@
+Tesla First Quarter 2018 Update
+ Model 3 production hit 2,270/week in April for the 3rd straight week over 2,000
+ Q1 Auto GAAP gross margin up sequentially by 80 bp and non-GAAP by 500 bp
+ Cash balance of $2.7 billion at the end of Q1
+ 2018 Capex projection reduced from >$3.4 billion to <$3 billion
+ Expecting positive GAAP net income and positive cash flow in Q3 and Q4 2018
+We made significant progress on the Model 3 ramp in the second half of Q1, and the momentum continued into early Q2. Prior to a
+planned shutdown in mid-April to further increase production, we produced more than 2,000 Model 3 vehicles for three straight weeks,
+and we hit 2,270 in the last of those weeks. Even at this stage of the ramp, Model 3 is already on the cusp of becoming the best-selling
+mid-sized premium sedan in the US, and our deliveries continue to increase. Consumers have clearly shown that electric vehicles are
+simply more desirable when priced on par with their internal combustion engine competitors while offering better technology,
+performance and user experience.
+If we execute according to our plans, we will at least achieve positive net income excluding non-cash stock based compensation in Q3
+and Q4 and we expect to also achieve full GAAP profitability in each of these quarters. This is primarily based on our ability to reach
+Model 3 production volume of 5,000 units per week and to grow Model 3 gross margin from slightly negative in Q1 2018 to close to
+breakeven in Q2 and then to highly positive in Q3 and Q4. Ultimately, the growth of Model 3 and the profit associated with it will help us
+accelerate the transition to sustainable energy even faster.
+ADVANCING SUSTAINABLE TRANSPORT
+As with all manufacturing, Model 3 production can only go as fast as the
+slowest part of the entire supply chain and production process. For
+months, the battery module line was our main production bottleneck.
+After deploying multiple semi-automated lines and improving our original
+lines, we have largely overcome this bottleneck. Consequently, we now
+expect to reach a module production rate of 5,000 car sets per week even
+before we install the new automated line designed and built by Tesla in
+Germany. Still, once installed, this new automated module line should
+significantly lower manufacturing costs. Our automation team in
+Germany is currently focusing on further capacity expansion where
+needed.
+We continue to target Model 3 production of approximately 5,000 per
+week in about two months, although our prior experience has
+demonstrated the difficulty of accurately forecasting specific production
+rates at specific points in time because of the exponential nature of the
+ramp. In order to achieve this production rate, we plan to take additional
+days of downtime during Q2, just like we did in Q1. We have already done this several times during the Model 3 ramp, including once
+in the third week of April to fix several small, known constraints, enabling higher levels of output. Just before taking this latest
+downtime, we produced 2,270 Model 3 and 2,024 Model S and Model X vehicles in the prior seven days, which was a new record for
+us. Furthermore, in the just over two weeks between the beginning of April and the planned downtime, we had produced 4,750 Model 3
+vehicles, which was already about half the production of the entire prior quarter. After achieving a production rate of 5,000 per week,
+we will begin offering new options such as all-wheel-drive and the base model with a standard-sized battery pack.
+Once we hit the 5,000 per week milestone, we intend to incorporate our learnings to continue to increase output on our existing
+manufacturing lines beyond 5,000 units per week, and then in a capital efficient manner to add incremental capacity to ultimately get to
+a 10,000 unit weekly rate.
+We’ve spoken at great length about the “machine that builds the machine” and why it is so important to Tesla’s long-term success.
+Fundamentally, we believe that thinking about a factory in the same way that people think about the product itself creates the potential
+for a step change in manufacturing that will create enormous benefits for quality, cost, efficiency and employee safety. It is human
+nature to take the best of what the automotive industry currently has to offer and assume that is the best that can be done. But we
+believe in first principles thinking. In the end, this is all about having factories that are producing the world’s highest quality cars as
+quickly and as cost-effectively as possible, and with as close to zero injuries as we can possibly get. Our automation strategy is key to
+this and we are as committed to it as ever.
+ We are already seeing many benefits from heavily increasing
+automation as part of the Model 3 production process. Through the
+vast majority of Model 3 production, including in body welding, general
+assembly, inverter and drive unit production, our automation effort has
+been very successful. Based on every measurable metric, Model 3 is
+already the highest quality vehicle we have ever produced, and this is
+unquestionably due in large part to automation. Additionally, we’ve
+been able to create significant safety benefits in the factory. For
+example, many steps in the assembly process, including “marriage” of
+the battery pack and drive unit with the body, and installation of the
+instrument panel, seats, and wheels, are ergonomically challenging for
+our employees, but by automating these processes, we have been
+able to solve this and significantly improve safety for our team.
+That said, a step change in manufacturing doesn’t come without its
+challenges, particularly early in the process, and we made a mistake
+by adding too much automation too quickly. In those select areas
+where we have had challenges ramping fully automated processes,
+such as portions of the battery module line, part of the material flow
+system, and two steps of general assembly, we have temporarily dialed back automation and introduced certain semi-automated or
+manual processes while we work to eventually have full automation take back over. This flexibility has enabled us to continue to ramp
+Model 3 to new levels.
+Automation is only half the story. Higher levels of automation have been enabled by a dramatic simplification of product design. Our
+Model 3 general assembly line consists of fewer than 50 steps, which is about 70% less than conventional assembly lines. All Model 3
+vehicles use only one standard body frame, down from more than 80 for Model S, a wiring harness that has 50% less mass than
+average vehicles, and a fraction of the number of controllers, connectors and CPUs. All these elements are rooted in design and
+critical not only to our ability to reach higher levels of output in a smaller amount of factory space but also to achieve lower levels of
+cost.
+The Model 3 battery has sophisticated power electronics, cooling systems and structure that enables high level of safety, sports-car like
+acceleration, Supercharging, a 120,000 mile warranty and low cost. Cells used in Model 3 are the highest energy density cells used in
+any electric vehicle. We have achieved this by significantly reducing cobalt content per battery pack while increasing nickel content and
+still maintaining superior thermal stability. The cobalt content of our Nickel-Cobalt-Aluminum cathode chemistry is already lower than
+next-generation cathodes that will be made by other cell producers with a Nickel-Manganese-Cobalt ratio of 8:1:1. As a result, even
+with its battery, the gross weight of Model 3 is on par with its gasoline-powered counterparts.
+Demand for our flagship Model S and Model X vehicles remains very strong. After all-time record orders in Q3 and Q4 2017, we had
+our highest ever Q1 for orders. With demand exceeding supply, we are making considerable progress with margin improvement. In
+Q1, we produced 24,728 Model S and X and 9,766 Model 3 vehicles, and delivered 21,815 Model S and Model X vehicles and 8,182
+Model 3 vehicles, totaling 29,997 deliveries. Short-term operational and logistical issues led to an increase in the number of Model S
+and Model X vehicles in transit to customers at the end of Q1. Model 3 net reservations, including configured orders that had not yet
+been delivered, continued to exceed 450,000 at the end of Q1 even though fewer than 20 stores worldwide had Model 3 on display.
+We are planning to deploy significantly more Model 3 vehicles in our stores in Q2 this
+year.
+On March 15, we released a significant Autopilot update, which has been well
+received by our customers. Also, our mapping architecture has been upgraded
+and establishes a key platform to enable safer driving and the transition
+towards full autonomy. The latest mapping software in our cars is dramatically
+simpler and faster, providing a better user experience and superior
+performance.
+During Q1, we opened nine new store and service locations, resulting in 339
+locations worldwide at the end of the quarter. We continue to expand our
+service capacity mainly through growth of our electrified Mobile Service fleet.
+Such service capacity is quicker to deploy, incurs lower upfront and operating
+costs and has continued to generate significantly higher customer satisfaction
+rate at an average of 98%. There are about 300 mobile service vehicles in
+operation today, which is an equivalent of approximately 60 service locations.
+At the end of Q1, 25% of all service carried out in North America was done
+without customers having to visit a physical service center.
+Last quarter, we opened 77 new Supercharger locations for a total of 1,205 Supercharger stations and more than 9,300 stalls
+worldwide. Most of the growth is currently focused on North America to support the initial Model 3 rollout. Nevertheless, in Europe, we
+already operate about 400 Supercharger stations. We continue to build Supercharger stations in locations with the highest demand
+and the most reservation holders. As a result, we are able to open new stations in specific locations even before fleet expansion takes
+place. 
+ADVANCING SUSTAINABLE ENERGY
+While Model 3 is clearly in the spotlight both externally and internally, 2018 should be a very important year for our energy storage
+business. We continue to aim for a three-fold increase in MWh deployed for our energy storage products this year.
+In Q1, energy storage deployments grew 161% from Q4 2017 to 373 MWh, which includes the 129 MWh South Australia project that
+was installed last year with final commercial transfer occurring in Q1. Electric utilities and power producers around the globe are
+increasingly appreciating the value proposition of our Powerpack storage systems based not only on economic benefits but also on the
+operational benefits of faster response time and greater reliability of the electric grid. In addition, we deployed a record number of
+residential Powerwall systems in Q1. In spite of the significant growth of Powerwall deliveries, our backlog in Q1 continued to grow.
+ We also deployed 76 MW of solar energy generation systems in Q1. Cash
+and loan system sales made up 66% of residential deployments in the
+quarter, up from 31% in Q1 2017 and 9% in Q1 2016. Due to higher upfront
+cash sales, lower emphasis on less profitable commercial projects and
+consolidation of our sales channels, our solar business had slightly positive
+cash flow throughout 2017. We are expecting cash flow from our solar
+business to remain at this level in the first half of 2018 and then improve
+significantly thereafter.
+Solar deployments have declined over the last few quarters due in large
+part to our strategic decision to shutter certain sales channels and market
+segments. These decisions had a negative impact on our deployments but
+created a positive impact on our cash generation. Furthermore, a
+significant part of our customer base is waiting for a Powerwall before
+getting their solar panels installed. We continue to prioritize Powerwall
+deliveries when they are sold together with our retrofit solar panels, and this
+should have a positive impact on our solar deployments in upcoming quarters.
+Our Solar Roof facility in Buffalo continued to ramp in Q1. We are working to enhance the product design and manufacturing process
+in order to improve the customer experience while reducing manufacturing cost and achieving high levels of quality. Production of
+Solar Roofs should accelerate significantly in the second half of this year.
+Over the past couple of quarters, we have increased efforts to sell energy generation and storage systems in Tesla stores. We are
+seeing clear signs of a pickup in order rates for retrofit solar installations through Tesla stores. These are now being offered in over 90
+Tesla stores in the US, and we continue to expand the offering to the rest of our stores across the US.
+Q1 2018 RESULTS
+Revenue & Gross Margin
+ Three Months Ended Change
+ March 31, December 31, March 31,
+ 2018 2017 2017 QoQ YoY
+Automotive revenue ($000) $ 2,735,317 $ 2,702,195 $ 2,289,600 1 % 19 %
+Automotive gross margin – GAAP 19.7 % 18.9 % 27.4 % 81 bp -766 bp
+Automotive gross margin excluding SBC
+ and ZEV credit – non-GAAP 18.8 % 13.8 % 27.8 % 498 bp -904 bp
+ Automotive revenue in Q1 2018 increased by 19% over Q1 2017, mainly due to Model 3 deliveries and adoption of the new
+accounting standard described below. ZEV credit sales in Q1 2018 were $50 million as compared to zero in Q1 2017.
+ With the adoption of the new revenue recognition standard starting January 1, 2018, lease accounting generally applies only to
+vehicles directly leased by us without using bank partners. As a result of this change, only 8% of our deliveries in Q1 were subject
+to lease accounting. We are not expecting to offer a leasing option on Model 3 this year as we continue to focus on cash sales.
+ Non-GAAP Automotive gross margin improved significantly to 18.8% in Q1 as compared to the prior quarter. Gross margins of
+Model S and Model X have increased to slightly above 25% due to better cost reductions, mix management, FX gains and pricing
+actions compared to Q4. GAAP Automotive gross margin improved to 19.7%.
+ Model 3 gross margin remained negative in Q1 due to temporary underutilization of our manufacturing capacity, which was in line
+with our expectations.
+ The recent voluntary recall of 125,000 Model S vehicles related to steering bolt corrosion was not material to our warranty reserves
+and is expected to be covered by the indemnification obligations of the supplier.
+ 
+ Three Months Ended Change
+ March 31, December 31, March 31,
+ 2018 2017 2017 QoQ YoY
+Energy generation and storage revenue ($000) $ 410,022 $ 298,037 $ 213,944 38 % 92 %
+Energy generation and storage gross margin 8.5 % 5.5 % 29.1 % 298 bp -2,061 bp
+ Energy generation and storage revenue in Q1 2018 increased by 92% over Q1 2017 and by 38% compared to Q4 2017. This was
+mainly driven by substantial growth of our energy storage deployments and recognition of our large project in South Australia.
+ GAAP energy generation and storage gross margin in Q1 2018 improved compared to Q4 2017 mainly due to an improvement of
+energy storage margin and fewer one-time items. We expect this improvement trend to continue in subsequent quarters.
+Other Highlights
+ Service and Other revenue in Q1 2018 increased by 37% compared to Q1 2017 primarily due to higher used car sales, but
+decreased by 9% sequentially as used car sales were lower in Q1 2018 compared to Q4 2017 due to a lower inventory of used
+cars available for sale during the quarter.
+ Service and Other gross loss in Q1 2018 increased to $118 million as a result of the continued growth and maturation in our
+service infrastructure. Our used car sales had slightly positive gross margin.
+ We expect Service and Other losses to reduce substantially in the coming quarters as our service infrastructure becomes
+significantly more utilized with the ramp of our Model 3 fleet size. There are also substantial revenue generating opportunities as
+we open our own body shops in 2018 to improve costs of out-of-warranty repairs and as we increase our offering of accessories
+and merchandise.
+ Operating expenses in Q1 2018 increased by 14% compared to Q1 2017, and by less than 2% compared to Q4 2017 to a total of
+$1.05 billion in spite of significant revenue growth. Excluding stock based compensation, our operating expenses reached $930
+million in Q1.
+ Basic shares outstanding at the end of Q1 2018 were approximately 170 million.
+Cash Flow and Liquidity
+ Cash outflow from operating activities in Q1 2018 was $398 million primarily due to an increase in inventory and accounts
+receivable balances as a result of the timing of deliveries. Higher number of Model S and Model X vehicles in transit at the end of
+Q1 2018 compared to Q4 2017 had a negative impact of about $120 million on our working capital. Additionally, due to a
+substantial increase in our deliveries in the last few days of the quarter, our accounts receivables negatively impacted our
+operating cash flow by $169 million in Q1. Both of these factors provided cash inflows during April.
+ We received $112 million in net funding from our vehicle lease warehouse lines, automotive asset-backed notes, auto tax equity
+fund and collateralized lease borrowings. When combined with free cash flow, this is a better indicator of the cash consumed in
+the quarter.
+ More than half of our capex in Q1 was related to completion of work for Model 3 production capacity at Fremont and Gigafactory 1
+plus payments to suppliers for tooling.
+OUTLOOK
+During Q2, we expect to shut down production for about 10 days, which includes the shutdown we took in April, to address bottlenecks
+across the lines and increase production to new levels. Our goal is to produce approximately 5,000 Model 3 vehicles per week in about
+two months.
+We are in the process of changing the quarterly production pattern of Model S and X vehicles for the various worldwide regions to
+ensure a more linear flow of deliveries through the quarter. We believe this will provide a better customer experience and reduce the
+stress on our delivery system. Consequently, Model S and X deliveries in Q2 will likely be similar to Q1 but should pick up considerably
+in Q3 to achieve our goal of 100,000 deliveries for the full year.
+Our long-term gross margin target of 25% for Model 3 has not changed. In the medium term, we expect to achieve slightly lower
+margin due to higher labor content in certain areas of manufacturing where we have temporarily dialed back automation, as well as
+higher material costs from recently imposed tariffs, commodity price increases and a weaker US dollar. On the other hand, our average
+selling price is significantly higher than prior projections, so we expect to achieve higher gross profit per vehicle than we previously
+estimated.
+With increasing capacity for Powerwall and Powerpack products at Gigafactory 1, energy generation and storage revenues should
+continue to grow significantly throughout the year. Energy storage gross margins should therefore become positive in the second half
+of 2018. Our solar business is likely to experience mild growth for another quarter or two before our revised sales strategy starts to
+show its full impact in final deployments. 
+Quarterly non-GAAP operating expenses should grow sequentially at approximately the same rate as in the past four quarters, with our
+gross profit expected to grow much faster than our operating expenses. Thus, provided that we hit the 5,000 unit milestone in our
+projected timeframe and execute to the rest of our plan, we will at least be profitable in Q3 and Q4 excluding non-cash stock based
+compensation and we expect to achieve full GAAP profitability in each of those quarters as well. Also, considering our capex targets,
+we expect to generate positive cash in Q3 and Q4, including the inflow of cash that we receive in the normal course of our business
+from financing activities on leased vehicle and solar products.
+We have significantly cut back our capex projections by focusing on the critical near-term needs that benefit us primarily in the next
+couple of years. At this stage, we are expecting total 2018 capex to be slightly below $3 billion, which is below the total 2017 level of
+$3.4 billion. Ultimately, our capex guidance will develop in line with Model 3 production and profitability. We will be able to adjust our
+capital expenditures significantly depending on our operating cash generation.
+Interest expenses in Q2 should amount to roughly $160 million and losses attributable to non-controlling interest should remain in line
+with the last quarter.
+We have good visibility of our path to fully ramp and stabilize Model 3 production this year. Model 3 is already the best-selling electric
+vehicle and, more importantly, on the cusp of becoming the best-selling premium sedan in the US. The path to an electrified revolution
+is not easy, but what we’re trying to achieve is worth fighting for. Thanks for your continued support.
+Elon Musk, Chairman & CEO Deepak Ahuja, Chief Financial Officer 

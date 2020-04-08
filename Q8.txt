@@ -1,0 +1,249 @@
+Tesla Fourth Quarter & Full Year 2018 Update
+ Q4 operating income stable compared to Q3 at $414M, operating margin of 5.7%
+ Operating cash flow less capex improved from Q3 to $910M in Q4
+ Cash and cash equivalents of $3.7B at Q4-end, increased by $718M in Q4
+ Q4 GAAP net income of $139M impacted by $54M non-cash charge
+ Model 3 GAAP and non-GAAP gross margin remained stable at >20% in Q4
+Last year was the most pivotal year in Tesla’s history. During our Model 3
+production ramp, we went through significant challenges with the battery
+module line at Gigafactory 1 in Nevada, and later with our general
+assembly line in Fremont. Thanks to the hard work and ingenuity of our
+manufacturing teams, by mid-2018 we successfully overcame these
+challenges and stabilized Model 3 production at high volumes. Model 3
+then went on to become the best-selling passenger car in the US in terms
+of revenue in both Q3 and Q4. With nearly 140,000 units sold, Model 3
+was also the best-selling premium vehicle (including SUVs) in the US for
+2018 – the first time in decades an American carmaker has been able to
+secure the top spot.
+Premium vehicle sales in the US (2018)
+Operating (EBIT) margin of premium carmakers
+Model 3’s success has carried over to our financial performance in Q3
+and Q4 of 2018. Operating income in Q4 remained stable at $414 million
+despite a sequential decline in revenue from the sale of regulatory
+credits, higher import duties on components from China, a price reduction
+for Model S and Model X in China, and the introduction of a lower-priced
+mid-range version of Model 3. Our operating margin also improved
+significantly in the second half of 2018, changing from being negative to
+on-par with other premium carmakers. Despite margins in the automotive
+industry typically being lower in Q4, that was not true for us as our
+operating margin remained strong at 5.7% in Q4. Our GAAP net income
+of $139 million was impacted by a non-cash charge of $54 million
+attributable to non-controlling interests. Free cash flow (operating cash
+flow less capital expenditures) also improved sequentially in Q4 to $910
+million. In the second half of 2018, our cash position improved by $1.45
+billion despite the scheduled repayment of a $230 million convertible
+bond in Q4. We have sufficient cash on hand to comfortably settle in
+cash our convertible bond that will mature in March 2019.
+In 2019, full-year Model 3 volumes will grow substantially over 2018 due to a full year of high production rates at our Fremont facility.
+Also, by the end of this year we are expecting to start producing Model 3 vehicles at our Gigafactory Shanghai using a complete vehicle
+production line. We expect the capital spend per unit of capacity for this factory to be less than half of that of our Model 3 line in
+Fremont. Additionally, this year we will start tooling for Model Y to achieve volume production by the end of 2020, most likely at
+Gigafactory 1. All of these activities are setting us up for very significant annual growth in 2019 and beyond.
+AUTOMOTIVE PRODUCTS
+Model 3’s production rate progressively improved through Q4, with December 2018 being our highest volume month ever. In our
+Fremont facility, we are now past the steep portion of the production S-curve, and we expect our production rate to continue to
+gradually improve. Every part of the Model 3 production process has demonstrated over a 24-hour period the ability to produce at an
+extrapolated rate of 7,000 vehicles per week. By the end of this year, we expect to be able to produce Model 3 at this rate on a
+sustained basis.
+As we improve the production rate of Model 3, the cost per vehicle continues to decline. It is critical that we continue this trend so that
+we can keep increasing the affordability of Model 3 while retaining a sustainable level of profitability. The labor hours per Model 3
+vehicle declined yet again by roughly 20% compared to Q3 and by about 65% in the second half of 2018 alone. Despite introducing a
+lower-priced mid-range variant and other headwinds, Model 3’s gross margin remained stable in Q4 at over 20%. 
+Our delivery and logistics systems continued to progress in Q4, but there remains room for more improvement. In order to reduce
+vehicle transportation time and improve the timeliness of scheduled deliveries, we have purchased and are continuing to purchase our
+own car-hauling truck capacity for vehicle shipments. This gives us far more control while lowering costs and improving customer
+satisfaction.
+In the past two years, Tesla vehicles have accounted for all of the electric
+vehicle (EV) volume growth in the US. Even with the radical EV growth in the
+second half of 2018, EVs still account for just 2% of the total US market, and
+there remains a substantial opportunity for EVs to continue to gain market
+share in the US and globally. Consumer purchases have demonstrated that
+EVs are becoming a preferred option, as EVs in Q4 2018 outsold hybrid electric
+vehicles (HEVs) in the US for the first time in history.
+EV sales in the US
+Model 3 trade-ins by vehicle type
+The appeal of Model 3 continues to go far beyond the mid-sized premium
+sedan market. Our trade-in data suggests that consumers are significantly
+changing their purchasing habits in order to buy a Model 3. Of all trade-ins
+we’ve ever received from customers buying a Model 3, only 17% are other
+mid-sized premium sedans. Perhaps more surprisingly, almost 60% of these
+trade-ins are non-premium vehicles. We are also seeing that a significant
+number of Model 3 buyers are trading down in size from a larger car or a
+SUV to a Model 3. Designed from the ground up to be electric, Model 3 has
+more interior space than its gas-powered equivalents. Interestingly, Model S
+accounted for only a small portion (4%) of total Model 3 trade-ins.
+In Q4, we delivered 63,359 Model 3 vehicles to customers in North America.
+In January 2019, we started to produce Model 3 vehicles for Europe and
+China, and the car is now fully certified for sale in these markets. The market
+opportunity for Model 3 in Europe and China exceeds North America based
+on the most recent sales of mid-sized premium sedans. Model 3 was
+designed from the outset for a global market, and shares more than 98% of
+its parts in common across its regional variants.
+Model 3 vs other premium sedans in 2018
+In January 2019, we started construction of Gigafactory Shanghai. Local manufacturing is an essential component of our ability to
+provide to customers in the region a truly affordable version of Model 3. Most other mid-sized premium sedans in China are locally
+produced, which allows them to have a lower average selling price. In the initial phase of Gigafactory Shanghai, we expect to have
+stamping, paint shop, body joining, and general assembly shops in operation by the end of 2019. This accelerated timeframe should be
+possible due to the radical simplification of our manufacturing layout and processes compared to our first-generation production line in
+Fremont. Higher-spec models such as our long-range all-wheel drive (AWD) and Performance versions will continue to be shipped to
+China from the US.
+In Q4, we delivered 27,607 Model S and Model X vehicles to customers. For the full year, we delivered 99,475 Model S and Model X
+vehicles, which was in line with our guidance. We recently stopped taking orders for the 75 kWh versions of Model S and Model X and
+will focus on the longer-range versions of these flagship products instead, with the recent introduction of a 310 mile range base Model S
+and 270 mile range base Model X. Over the years, we have been gradually simplifying options for Model S and Model X by
+standardizing options such as the air suspension, AWD, premium package, and glass roof. This is yet another step towards increased
+standardization, which results in significantly lower manufacturing cost. Additionally, we believe this will provide more differentiation
+between Model S and Model 3. As a result of this change and improving efficiencies in our production lines, we have reduced Model S
+and Model X production hours accordingly. Last year alone, Model S and X production efficiencies improved 15%. Our objective is to 
+continue to achieve further efficiencies, which will reduce the manufacturing cost while providing us the flexibility to increase output as
+necessary.
+Our Autopilot team recently publicly launched “Navigate on Autopilot”, a feature that allows, on most controlled-access roads such as
+highways, any Tesla vehicle with Enhanced Autopilot to change lanes, transition from one highway to another, and ultimately exit the
+highway when approaching the final destination. We expect to increase the functionality of Autopilot to navigate increasingly complex
+environments and situations.
+During Q4, we opened 27 new store and service locations, resulting in 378 locations worldwide at the end of the quarter. Our largely
+electrified Mobile Service fleet continued to grow further to 411 service vehicles on the road at the end of Q4. In 2018, the total Tesla
+vehicle fleet grew by 85%, mainly due to the steep Model 3 production ramp. We see upgrading our service capacity and improving
+customer service as a top priority at the moment. Where needed, our service centers are moving to two-shift operations in order to
+double service capacity quickly, and we are simplifying processes in order to increase service throughput. We are also increasing the
+functionality of the Tesla App for scheduling service in order to improve responsiveness and convenience for our customers.
+Furthermore, we are changing our parts distribution approach to ensure that spare parts are available in a timely manner at all our
+service centers globally.
+In Q4, we opened 69 new Supercharger locations for a total of 1,421 Supercharger stations globally. In 2018, we opened 293
+Supercharger locations, many of which have 20 to 50 stalls per location. To date, we have approximately 12,000 dedicated
+Supercharging connectors and over 21,000 Destination Charging connectors globally. In addition to our continued investment in global
+charging infrastructure, our engineering team is finalizing plans for the rollout of our V3 Supercharger technology early this year, which
+will enable significantly faster charge times. We anticipate V3 to not only provide a better customer experience for Tesla vehicle
+owners, but to also significantly lower Tesla’s operational and capital expenditures.
+ENERGY PRODUCTS
+While 2018 was predominantly the year of Model 3, our Energy business also reached a significant milestone. In 2018, we deployed
+1.04 GWh of energy storage, nearly tripling our energy storage deployments compared to 358 MWh deployed in 2017. In Q4, energy
+storage deployments reached 225 MWh, a decrease of 6% sequentially, and up 57% compared to Q4 2017. A new manufacturing line
+made by Tesla Grohmann is further increasing production of Powerwall and Powerpack modules at Gigafactory 1. With a better supply
+of cells and new manufacturing equipment, we are aiming to more than double energy storage deployments to over 2 GWh in 2019.
+Through various operational efficiencies, our average sale-to-installation time also decreased by about 50% in 2018.
+GWh of energy storage deployed
+We see growth opportunities for Powerwall not only in North America, but also
+in Australia and Europe where electricity rates are high and solar panels
+combined with Powerwall units will help reduce electricity bills. South
+Australia has recently initiated a Virtual Power Plant program where the plan is
+to install 50,000 interconnected Powerwall units that will provide increased
+grid reliability and lower cost for all customers. The profitability of our energy
+products continued to improve partially due to the increased efficiency of
+Powerwall installations. Each Powerwall is an internet connected device,
+enabling us to continue to introduce new functionality and improvements over
+time, just like we do with our vehicles.
+While the Hornsdale battery that we built in South Australia is still the largest battery in the world, we have recently received multiple
+requests to build significantly larger battery projects. The Hornsdale project has generated substantial savings and is likely to pay for
+itself within a few years. This has generated interest from governments and municipalities to invest in large battery storage projects
+rather than in conventional peak energy generation. In addition to providing backup generation and cost savings to businesses,
+Powerpack units are now used in over 100 microgrid projects across 32 countries.
+We deployed 73 MW of retrofit solar systems in Q4, a 21% decrease sequentially. We are still in the process of transitioning our sales
+channel from former partners to our Tesla stores and training our sales team to sell solar systems in addition to vehicles. Cash and
+loan sales made up 75% of residential deployments in Q4, up from 51% in Q4 2017. Likewise, while total deployments decreased by
+38% to 326 MW in 2018, cash and loan residential deployments increased from 39% in 2017 to 71% in 2018. This was an important
+contributor to improving the cash generation and profitability of the solar business.
+We plan to ramp up the production of Solar Roof with significantly improved manufacturing capabilities during 2019, based on the
+design iterations and testing underway. In the meantime, we are continuing to install Solar Roofs at a slow pace to gather further
+learnings from our design changes, as well as about the viability of our installation processes by implementing them in areas around the
+U.S. that are experiencing inclement weather. 
+Q4 2018 RESULTS
+Revenue & Gross Margin
+ Three Months Ended Change
+ December 31, September 30, December 31,
+ 2018 2018 2017 QoQ YoY
+Automotive revenue ($000) $ 6,323,219 $ 6,098,766 $ 2,702,195 4 % 134 %
+Automotive gross margin – GAAP 24.3 % 25.8 % 18.9 % -149 bp 540 bp
+Automotive gross margin excluding SBC
+ and ZEV credit – non-GAAP 24.7 % 25.5 % 13.8 % -85 bp 1,086 bp
+ Automotive revenue in Q4 increased by 4% sequentially over Q3 and by 134% compared to Q4 2017, primarily due to a sharp
+increase in Model 3 deliveries. In Q4, we recognized less than $1 million in ZEV credit sales compared to $52 million in Q3.
+ With the adoption of the new revenue recognition standard starting January 1, 2018, lease accounting generally applies only to
+vehicles directly leased by us without using bank partners. As a result, only 4% of vehicles delivered in Q4 were subject to lease
+accounting.
+ GAAP Automotive gross margin slightly decreased to 24.3% in Q4 from 25.8% in Q3 primarily due to lower regulatory credit sales
+in Q4. Non-GAAP Automotive gross margin decreased to 24.7% in Q4 from 25.5% in the prior quarter due to a $43 million decline
+in non-ZEV credit revenue and negative impact from Chinese import duties.
+ Model 3 gross margin stayed flat compared to Q3, remaining above 20% despite the headwinds described above. The mix of the
+Performance versions of Model 3 remained only slightly above the percentage mix of Performance versions of Model S and X.
+ Gross margin of Model S and Model X declined very slightly compared to Q3, which was in line with our guidance. Further cost
+reductions partially offset lowered prices in China as well as other negative factors. For full year 2018, Model S and Model X nonGAAP gross margin improved by over 500 bp and GAAP gross margin improved by over 300 bp compared to 2017, mainly due to
+significant cost reductions.
+ Three Months Ended Change
+ December 31, September 30, December 31,
+ 2018 2018 2017 QoQ YoY
+Energy generation and storage revenue ($000) $ 371,497 $ 399,317 $ 298,037 -7 % 25 %
+Energy generation and storage gross margin 11.5 % 17.2 % 5.5 % -570 bp 604 bp
+ Energy generation and storage revenue in Q4 decreased by 7% over Q3 and increased by 25% compared to Q4 2017. This yearover-year increase was mainly driven by a substantial growth in energy storage deployments.
+ GAAP gross margin of the Energy business in Q4 dropped significantly to 11.5% compared to Q3 mainly due to the typical
+seasonal decline in solar energy production and correspondingly lower lease revenue in the winter months, Solar Roof ramp cost,
+and a higher mix of lower margin energy storage business.
+Other Highlights
+ Service and Other revenue in Q4 increased by 63% compared to Q3. This was mainly due to increased used car sales and higher
+revenue from service and merchandise sales.
+ Service and Other gross margin in Q4 improved sequentially to negative 26%. Total gross loss of Service and Other increased
+compared to Q3.
+ Our total GAAP operating expenses decreased to $1.03 billion in Q4, which was 7% less than in Q3. Excluding one-time
+restructuring and other costs, operating expenses decreased by 5% sequentially.
+ Income attributable to non-controlling interests impacted our income statement negatively by $71 million in Q4. The asset backed
+securitization (ABS) of auto leases completed in Q4 resulted in a change of ownership structure of those leased vehicles. This
+required a non-cash charge of $54 million attributable to non-controlling interests.
+ Interest and Other expenses, net were $182 million in Q4 compared to $145 million in Q3. Non-cash items accounted for $87
+million of total interest expense in Q4.
+ There were approximately 172 million basic shares outstanding at the end of Q4.
+Cash Flow and Liquidity
+ Our cash position increased by $718 million in Q4, despite the scheduled repayment of our $230 million convertible bonds.
+ Cash flow from operating activities in Q4 was $1.23 billion. Operating cash flow remained strong although our days payable
+outstanding decreased significantly, partially limiting the positive impact of working capital.
+ Customer deposits decreased sequentially by $113 million in Q4 to $793 million as we continue to work through our Model 3
+backlog.
+ Our capital expenditures were $325 million in Q4. Because our acquisition of land in China is a 50-year lease from the Chinese
+government, our payment of $141 million for it is excluded from capex and reflected in operating cash flow. Capital expenditures,
+including our China land acquisition payment, were at $2.24 billion in 2018. 
+OUTLOOK
+Model 3 production volumes in Fremont should gradually continue to grow throughout 2019 and reach a sustained rate of 7,000 units
+per week by the end of the year. We are planning to continue to produce Model 3 vehicles at maximum production rates throughout
+2019. Inclusive of Gigafactory Shanghai, where we are initially aiming for 3,000 Model 3 vehicles per week, our goal is to be able to
+produce 10,000 vehicles per week on a sustained basis. Barring unexpected challenges with Gigafactory Shanghai, we are targeting
+annualized Model 3 output in excess of 500,000 units sometime between Q4 of 2019 and Q2 of 2020.
+While the number of Model 3 vehicles produced should increase sequentially in Q1, deliveries in North America during Q1 will be lower
+than the prior quarter as we start delivering cars in Europe and China for the first time. As a result of the start of Model 3 expansion into
+Europe and China, deliveries will be lower than production by about 10,000 units due to vehicle transit times to these markets.
+Because of the first scheduled reduction of the federal EV tax credit on January 1, 2019, we likely saw a pull-forward of demand in the
+US for Model S and Model X into 2018. Both Model S and Model X reached all-time high market shares in the US in the second half of
+2018. Model S, for example, accounted for 38% of its segment in the US. Because this high level of demand presumably represented
+a pull-forward, we are expecting our Model S and Model X deliveries in Q1 2019 to be slightly below Q1 2018.
+We continue to target a 25% Model 3 non-GAAP gross margin at some point in 2019. While there are many moving parts that will
+ultimately determine gross margin, we believe that significant cost reductions combined with better fixed-cost absorption and careful
+management of mix should enable us to get to this profit level. We expect that gross margin for Model S and Model X should remain
+relatively stable compared to 2018.
+Energy generation and storage revenue should increase significantly in 2019, mainly due to the storage business. We expect that the
+deployment of retrofit solar systems in Q1 will be slightly lower than in Q4 due to seasonality. The gross margin of our Energy business
+should grow as the energy storage margin continues to improve from its current level.
+We expect our Services and Other business to continue to grow, mainly due to projected used car sales volumes in 2019. We should
+continue to see further sequential improvements in gross margin throughout this year.
+Our operating expenses will grow by less than 10% in 2019, thus creating massive leverage given the top line growth in 2019. This
+year, we will continue to implement more automation projects, and our ongoing cost reduction efforts will also make an impact. Since
+about 70% of Model 3 customers made a purchase without a test drive in the second half of 2018, we believe we can leverage our retail
+network further.
+We expect that the restructuring actions taken in Q1 will reduce our costs by about $400 million annually. Our Q1 financials will reflect a
+one-time restructuring cost. The gap between production and deliveries in Q1 will create a temporary but predictable dip in our
+revenues and earnings. As a result, our optimistic target is to achieve a very small GAAP net income in Q1, but that will require us to
+successfully execute on many fronts including handling logistics and delivery challenges in Europe and China. The higher in-transit
+inventory will also negatively impact operating cash flows in Q1.
+In total, we are expecting to deliver 360,000 to 400,000 vehicles in 2019, representing a growth of approximately 45% to 65%
+compared to 2018. In this range, we are expecting to have positive GAAP net income and to generate positive free cash flow
+(operating cash flow less capex) in every quarter beyond Q1 2019. We believe these results will be substantially driven by our
+restructuring action and the ongoing financial discipline with which we are managing the business.
+Our 2019 capex, the vast majority of which will be to grow our capacity and develop new vehicles, is expected to be about $2.5 billion.
+We believe this amount should be sufficient to continue to develop our main projects, such as Gigafactory Shanghai, Model Y and
+Tesla Semi, as well as for the further expansion of our Supercharger, service and retail networks. We expect to arrange financing
+through local banks in China to fund most of the capex for Gigafactory Shanghai.
+Since Model Y will be built on the Model 3 platform and is designed to share about 75% of its components with Model 3, the cost of the
+Model Y production line should be substantially lower than the Model 3 line in Fremont, and the production ramp should also be faster.
+This year should be a truly exciting one for Tesla. Model 3 will become a global product, the profitability of our business should become
+sustainably positive, our new Gigafactory Shanghai should start producing cars, and we will start tooling for Model Y production. Our
+growth opportunities are massive. Our accomplishments have been possible thanks to the exceptional effort of our employees and the
+support of our customers, suppliers and investors. We hope you’re as excited as we are about 2019.
+
+Elon Musk Deepak Ahuja 
